@@ -1,0 +1,6 @@
+Type of Admission,discharges,cost,los,cost_per_day,severity_score
+Trauma,10041,39523.66,7.06,6894.39,2.47
+Urgent,168363,30754.64,6.58,6448.02,2.05
+Elective,355519,30240.22,4.77,10774.0,1.8
+Emergency,1458774,25955.19,6.1,4965.78,2.33
+Newborn,197997,10227.62,3.42,2356.14,1.42

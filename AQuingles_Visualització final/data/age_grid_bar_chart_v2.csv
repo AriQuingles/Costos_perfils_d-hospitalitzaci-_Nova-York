@@ -1,0 +1,31 @@
+Age Group,Gender,discharges,metric,value
+0-17,F,145719,avg_cost,14491.32
+0-17,M,155647,avg_cost,15566.89
+18-29,F,133108,avg_cost,16258.97
+18-29,M,49868,avg_cost,26884.19
+30-49,F,268787,avg_cost,19156.31
+30-49,M,153909,avg_cost,27296.5
+50-69,F,262493,avg_cost,30094.05
+50-69,M,317978,avg_cost,32822.38
+70 or Older,F,384561,avg_cost,27556.17
+70 or Older,M,321878,avg_cost,30999.85
+0-17,F,145719,cost_per_day,3453.4
+0-17,M,155647,cost_per_day,3728.61
+18-29,F,133108,cost_per_day,5365.67
+18-29,M,49868,cost_per_day,5548.3
+30-49,F,268787,cost_per_day,5850.23
+30-49,M,153909,cost_per_day,5674.73
+50-69,F,262493,cost_per_day,6735.16
+50-69,M,317978,cost_per_day,6678.3
+70 or Older,F,384561,cost_per_day,5774.94
+70 or Older,M,321878,cost_per_day,6448.91
+0-17,F,145719,avg_los,3.83
+0-17,M,155647,avg_los,3.86
+18-29,F,133108,avg_los,3.78
+18-29,M,49868,avg_los,7.12
+30-49,F,268787,avg_los,4.2
+30-49,M,153909,avg_los,6.57
+50-69,F,262493,avg_los,6.23
+50-69,M,317978,avg_los,6.69
+70 or Older,F,384561,avg_los,6.31
+70 or Older,M,321878,avg_los,6.61
